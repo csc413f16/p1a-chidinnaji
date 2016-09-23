@@ -1,8 +1,8 @@
-Name:
+Name:Nnaji Chidiebere
 
-Compilation and Run Successful:
+Compilation and Run Successful: Test Ran Successfully
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: Yes
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
